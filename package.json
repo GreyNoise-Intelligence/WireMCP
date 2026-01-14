@@ -6,6 +6,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+    "bin": {
+    "wiremcp": "./index.js"
+    },
   "author": "0xKoda",
   "license": "MIT",
   "dependencies": {
