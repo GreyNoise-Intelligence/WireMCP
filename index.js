@@ -1,4 +1,5 @@
-// index.js - WireMCP Server
+#!/usr/bin/env node
+
 const axios = require('axios');
 const { exec } = require('child_process');
 const { promisify } = require('util');
